@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=thread -g CMakeFiles/MyProject.dir/main.cpp.o CMakeFiles/MyProject.dir/task1.cpp.o CMakeFiles/MyProject.dir/task2.cpp.o CMakeFiles/MyProject.dir/task3.cpp.o CMakeFiles/MyProject.dir/utils.cpp.o -o MyProject  -fsanitize=thread 

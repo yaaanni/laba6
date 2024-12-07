@@ -1,0 +1,4 @@
+/home/user/workwork/453501/ОАИП/LR6/project/build_task1/CMakeFiles/MyTest.dir
+/home/user/workwork/453501/ОАИП/LR6/project/build_task1/CMakeFiles/test.dir
+/home/user/workwork/453501/ОАИП/LR6/project/build_task1/CMakeFiles/edit_cache.dir
+/home/user/workwork/453501/ОАИП/LR6/project/build_task1/CMakeFiles/rebuild_cache.dir
