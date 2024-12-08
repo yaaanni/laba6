@@ -224,6 +224,15 @@ MyProject_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 MyProject_SOURCE_DIR:STATIC=/home/user/workwork/453501/ОАИП/LR6/project
 
+//Value Computed by CMake
+test_BINARY_DIR:STATIC=/home/user/workwork/453501/ОАИП/LR6/project/build_thread
+
+//Value Computed by CMake
+test_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+test_SOURCE_DIR:STATIC=/home/user/workwork/453501/ОАИП/LR6/project
+
 
 ########################
 # INTERNAL cache entries

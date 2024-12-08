@@ -7,24 +7,6 @@
 },
 {
   "directory": "/home/user/workwork/453501/ОАИП/LR6/project/build_address",
-  "command": "/usr/bin/c++    -fsanitize=address -g -std=gnu++11 -fsanitize=address -o CMakeFiles/MyProject.dir/task1.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/task1.cpp",
-  "file": "/home/user/workwork/453501/ОАИП/LR6/project/task1.cpp",
-  "output": "CMakeFiles/MyProject.dir/task1.cpp.o"
-},
-{
-  "directory": "/home/user/workwork/453501/ОАИП/LR6/project/build_address",
-  "command": "/usr/bin/c++    -fsanitize=address -g -std=gnu++11 -fsanitize=address -o CMakeFiles/MyProject.dir/task2.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/task2.cpp",
-  "file": "/home/user/workwork/453501/ОАИП/LR6/project/task2.cpp",
-  "output": "CMakeFiles/MyProject.dir/task2.cpp.o"
-},
-{
-  "directory": "/home/user/workwork/453501/ОАИП/LR6/project/build_address",
-  "command": "/usr/bin/c++    -fsanitize=address -g -std=gnu++11 -fsanitize=address -o CMakeFiles/MyProject.dir/task3.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/task3.cpp",
-  "file": "/home/user/workwork/453501/ОАИП/LR6/project/task3.cpp",
-  "output": "CMakeFiles/MyProject.dir/task3.cpp.o"
-},
-{
-  "directory": "/home/user/workwork/453501/ОАИП/LR6/project/build_address",
   "command": "/usr/bin/c++    -fsanitize=address -g -std=gnu++11 -fsanitize=address -o CMakeFiles/MyProject.dir/utils.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/utils.cpp",
   "file": "/home/user/workwork/453501/ОАИП/LR6/project/utils.cpp",
   "output": "CMakeFiles/MyProject.dir/utils.cpp.o"

@@ -153,78 +153,6 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-task1.o: task1.cpp.o
-.PHONY : task1.o
-
-# target to build an object file
-task1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task1.cpp.o
-.PHONY : task1.cpp.o
-
-task1.i: task1.cpp.i
-.PHONY : task1.i
-
-# target to preprocess a source file
-task1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task1.cpp.i
-.PHONY : task1.cpp.i
-
-task1.s: task1.cpp.s
-.PHONY : task1.s
-
-# target to generate assembly for a file
-task1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task1.cpp.s
-.PHONY : task1.cpp.s
-
-task2.o: task2.cpp.o
-.PHONY : task2.o
-
-# target to build an object file
-task2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task2.cpp.o
-.PHONY : task2.cpp.o
-
-task2.i: task2.cpp.i
-.PHONY : task2.i
-
-# target to preprocess a source file
-task2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task2.cpp.i
-.PHONY : task2.cpp.i
-
-task2.s: task2.cpp.s
-.PHONY : task2.s
-
-# target to generate assembly for a file
-task2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task2.cpp.s
-.PHONY : task2.cpp.s
-
-task3.o: task3.cpp.o
-.PHONY : task3.o
-
-# target to build an object file
-task3.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task3.cpp.o
-.PHONY : task3.cpp.o
-
-task3.i: task3.cpp.i
-.PHONY : task3.i
-
-# target to preprocess a source file
-task3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task3.cpp.i
-.PHONY : task3.cpp.i
-
-task3.s: task3.cpp.s
-.PHONY : task3.s
-
-# target to generate assembly for a file
-task3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/MyProject.dir/build.make CMakeFiles/MyProject.dir/task3.cpp.s
-.PHONY : task3.cpp.s
-
 utils.o: utils.cpp.o
 .PHONY : utils.o
 
@@ -261,15 +189,6 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... task1.o"
-	@echo "... task1.i"
-	@echo "... task1.s"
-	@echo "... task2.o"
-	@echo "... task2.i"
-	@echo "... task2.s"
-	@echo "... task3.o"
-	@echo "... task3.i"
-	@echo "... task3.s"
 	@echo "... utils.o"
 	@echo "... utils.i"
 	@echo "... utils.s"

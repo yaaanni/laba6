@@ -152,6 +152,4 @@ CMakeFiles/MyProject.dir/main.cpp.o: \
  /usr/include/libintl.h /usr/include/c++/13/bits/codecvt.h \
  /usr/include/c++/13/bits/locale_facets_nonio.tcc \
  /usr/include/c++/13/bits/locale_conv.h \
- /home/user/workwork/453501/ОАИП/LR6/project/task1.h \
- /home/user/workwork/453501/ОАИП/LR6/project/task2.h \
- /home/user/workwork/453501/ОАИП/LR6/project/task3.h
+ /home/user/workwork/453501/ОАИП/LR6/project/utils.h

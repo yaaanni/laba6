@@ -83,52 +83,10 @@ CMakeFiles/MyProject.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyProject.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/workwork/453501/ОАИП/LR6/project/main.cpp -o CMakeFiles/MyProject.dir/main.cpp.s
 
-CMakeFiles/MyProject.dir/task1.cpp.o: CMakeFiles/MyProject.dir/flags.make
-CMakeFiles/MyProject.dir/task1.cpp.o: /home/user/workwork/453501/ОАИП/LR6/project/task1.cpp
-CMakeFiles/MyProject.dir/task1.cpp.o: CMakeFiles/MyProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user/workwork/453501/ОАИП/LR6/project/build_address/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyProject.dir/task1.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyProject.dir/task1.cpp.o -MF CMakeFiles/MyProject.dir/task1.cpp.o.d -o CMakeFiles/MyProject.dir/task1.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/task1.cpp
-
-CMakeFiles/MyProject.dir/task1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyProject.dir/task1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/workwork/453501/ОАИП/LR6/project/task1.cpp > CMakeFiles/MyProject.dir/task1.cpp.i
-
-CMakeFiles/MyProject.dir/task1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyProject.dir/task1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/workwork/453501/ОАИП/LR6/project/task1.cpp -o CMakeFiles/MyProject.dir/task1.cpp.s
-
-CMakeFiles/MyProject.dir/task2.cpp.o: CMakeFiles/MyProject.dir/flags.make
-CMakeFiles/MyProject.dir/task2.cpp.o: /home/user/workwork/453501/ОАИП/LR6/project/task2.cpp
-CMakeFiles/MyProject.dir/task2.cpp.o: CMakeFiles/MyProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user/workwork/453501/ОАИП/LR6/project/build_address/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyProject.dir/task2.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyProject.dir/task2.cpp.o -MF CMakeFiles/MyProject.dir/task2.cpp.o.d -o CMakeFiles/MyProject.dir/task2.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/task2.cpp
-
-CMakeFiles/MyProject.dir/task2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyProject.dir/task2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/workwork/453501/ОАИП/LR6/project/task2.cpp > CMakeFiles/MyProject.dir/task2.cpp.i
-
-CMakeFiles/MyProject.dir/task2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyProject.dir/task2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/workwork/453501/ОАИП/LR6/project/task2.cpp -o CMakeFiles/MyProject.dir/task2.cpp.s
-
-CMakeFiles/MyProject.dir/task3.cpp.o: CMakeFiles/MyProject.dir/flags.make
-CMakeFiles/MyProject.dir/task3.cpp.o: /home/user/workwork/453501/ОАИП/LR6/project/task3.cpp
-CMakeFiles/MyProject.dir/task3.cpp.o: CMakeFiles/MyProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user/workwork/453501/ОАИП/LR6/project/build_address/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyProject.dir/task3.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyProject.dir/task3.cpp.o -MF CMakeFiles/MyProject.dir/task3.cpp.o.d -o CMakeFiles/MyProject.dir/task3.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/task3.cpp
-
-CMakeFiles/MyProject.dir/task3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MyProject.dir/task3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/workwork/453501/ОАИП/LR6/project/task3.cpp > CMakeFiles/MyProject.dir/task3.cpp.i
-
-CMakeFiles/MyProject.dir/task3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MyProject.dir/task3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/workwork/453501/ОАИП/LR6/project/task3.cpp -o CMakeFiles/MyProject.dir/task3.cpp.s
-
 CMakeFiles/MyProject.dir/utils.cpp.o: CMakeFiles/MyProject.dir/flags.make
 CMakeFiles/MyProject.dir/utils.cpp.o: /home/user/workwork/453501/ОАИП/LR6/project/utils.cpp
 CMakeFiles/MyProject.dir/utils.cpp.o: CMakeFiles/MyProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user/workwork/453501/ОАИП/LR6/project/build_address/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MyProject.dir/utils.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/user/workwork/453501/ОАИП/LR6/project/build_address/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyProject.dir/utils.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MyProject.dir/utils.cpp.o -MF CMakeFiles/MyProject.dir/utils.cpp.o.d -o CMakeFiles/MyProject.dir/utils.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/utils.cpp
 
 CMakeFiles/MyProject.dir/utils.cpp.i: cmake_force
@@ -142,22 +100,16 @@ CMakeFiles/MyProject.dir/utils.cpp.s: cmake_force
 # Object files for target MyProject
 MyProject_OBJECTS = \
 "CMakeFiles/MyProject.dir/main.cpp.o" \
-"CMakeFiles/MyProject.dir/task1.cpp.o" \
-"CMakeFiles/MyProject.dir/task2.cpp.o" \
-"CMakeFiles/MyProject.dir/task3.cpp.o" \
 "CMakeFiles/MyProject.dir/utils.cpp.o"
 
 # External object files for target MyProject
 MyProject_EXTERNAL_OBJECTS =
 
 MyProject: CMakeFiles/MyProject.dir/main.cpp.o
-MyProject: CMakeFiles/MyProject.dir/task1.cpp.o
-MyProject: CMakeFiles/MyProject.dir/task2.cpp.o
-MyProject: CMakeFiles/MyProject.dir/task3.cpp.o
 MyProject: CMakeFiles/MyProject.dir/utils.cpp.o
 MyProject: CMakeFiles/MyProject.dir/build.make
 MyProject: CMakeFiles/MyProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/user/workwork/453501/ОАИП/LR6/project/build_address/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable MyProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/user/workwork/453501/ОАИП/LR6/project/build_address/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable MyProject"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MyProject.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

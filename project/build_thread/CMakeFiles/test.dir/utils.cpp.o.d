@@ -1,7 +1,6 @@
-CMakeFiles/MyProject.dir/task3.cpp.o: \
- /home/user/workwork/453501/ОАИП/LR6/project/task3.cpp \
+CMakeFiles/test.dir/utils.cpp.o: \
+ /home/user/workwork/453501/ОАИП/LR6/project/utils.cpp \
  /usr/include/stdc-predef.h \
- /home/user/workwork/453501/ОАИП/LR6/project/task3.h \
  /home/user/workwork/453501/ОАИП/LR6/project/utils.h \
  /usr/include/c++/13/cwchar \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -151,4 +150,4 @@ CMakeFiles/MyProject.dir/task3.cpp.o: \
  /usr/include/c++/13/bits/locale_facets.tcc \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
- /usr/include/c++/13/bits/istream.tcc
+ /usr/include/c++/13/bits/istream.tcc /usr/include/c++/13/limits

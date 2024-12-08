@@ -1,9 +1,7 @@
 #include <iostream>
 #include <limits>
 #include <locale>
-#include "task1.h"
-#include "task2.h"
-#include "task3.h"
+#include "utils.h"
 
 int menu() {
     std::wcout << L"Выберите интересующий пункт меню: \n";
@@ -25,23 +23,22 @@ int menu() {
 void program(int choice) {
     setlocale(LC_ALL, "ru_RU.UTF-8");
 
-    // Очистка ввода
     std::wcin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
     switch (choice) {
         case 1: {
-            Task1 task1;
-            task1.execute();
+            Task Task1;
+            Task1.task1();
             break;
         }
         case 2: {
-            Task2 task2;
-            task2.execute();
+            Task Task2;
+            Task2.task2();
             break;
         }
         case 3: {
-            Task3 task3;
-            task3.execute();
+            Task Task3;
+            Task3.task3();
             break;
         }
         default:

@@ -5,7 +5,6 @@
 #include <locale>
 #include <codecvt>
 #include <string>
-#include "task3.h"
 #include <cwchar>
 
 // Функция для обмена местами двух строк полностью
