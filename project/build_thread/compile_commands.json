@@ -1,14 +1,14 @@
 [
 {
   "directory": "/home/user/workwork/453501/ОАИП/LR6/project/build_thread",
-  "command": "/usr/bin/c++    -fsanitize=thread -g -fno-omit-frame-pointer -std=gnu++17 -fsanitize=thread -fno-omit-frame-pointer -o CMakeFiles/MyProject.dir/main.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/main.cpp",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -fno-omit-frame-pointer -std=gnu++17 -fsanitize=thread -fno-omit-frame-pointer -o CMakeFiles/Project.dir/main.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/main.cpp",
   "file": "/home/user/workwork/453501/ОАИП/LR6/project/main.cpp",
-  "output": "CMakeFiles/MyProject.dir/main.cpp.o"
+  "output": "CMakeFiles/Project.dir/main.cpp.o"
 },
 {
   "directory": "/home/user/workwork/453501/ОАИП/LR6/project/build_thread",
-  "command": "/usr/bin/c++    -fsanitize=thread -g -fno-omit-frame-pointer -std=gnu++17 -fsanitize=thread -fno-omit-frame-pointer -o CMakeFiles/MyProject.dir/utils.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/utils.cpp",
+  "command": "/usr/bin/c++    -fsanitize=thread -g -fno-omit-frame-pointer -std=gnu++17 -fsanitize=thread -fno-omit-frame-pointer -o CMakeFiles/Project.dir/utils.cpp.o -c /home/user/workwork/453501/ОАИП/LR6/project/utils.cpp",
   "file": "/home/user/workwork/453501/ОАИП/LR6/project/utils.cpp",
-  "output": "CMakeFiles/MyProject.dir/utils.cpp.o"
+  "output": "CMakeFiles/Project.dir/utils.cpp.o"
 }
 ]

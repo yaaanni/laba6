@@ -276,6 +276,4 @@ CMakeFiles/MyTest.dir/test_main2.cpp.o: \
  /usr/local/include/gtest/gtest-test-part.h \
  /usr/local/include/gtest/gtest-typed-test.h \
  /usr/local/include/gtest/gtest_pred_impl.h \
- /usr/local/include/gtest/gtest_prod.h \
- /home/user/workwork/453501/ОАИП/LR6/project/utils.h \
- /usr/include/c++/13/codecvt
+ /usr/local/include/gtest/gtest_prod.h /usr/include/c++/13/codecvt
